@@ -17,6 +17,7 @@ p {
 div {
   background-color: blue;
   text-align: right;
+  padding: 15px;
 }
 
 th, td {
